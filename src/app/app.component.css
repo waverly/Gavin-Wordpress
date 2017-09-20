@@ -1,0 +1,12 @@
+@font-face{
+  font-family: circular;
+  src: url(./fonts/CircularPro-Book.otf);
+}
+
+h1{
+  font-family: circular;
+}
+
+ul{
+  font-family: circular;
+}

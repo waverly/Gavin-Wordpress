@@ -1,0 +1,13 @@
+@font-face{
+  font-family: circular;
+  src: url(../assets/fonts/CircularPro-Book.otf);
+}
+
+ul{
+  font-family: circular;
+  background-color: red;
+}
+
+ul > li {
+  cursor: pointer;
+}
